@@ -1,0 +1,8 @@
+# SolidCraft backups and open-document locks
+*.sc.bak
+*.solidcraft.bak
+.~*.lock
+
+# Operating-system files
+.DS_Store
+Thumbs.db
