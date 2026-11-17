@@ -7,6 +7,7 @@
 - **Покупки:** [BOM с ссылками Unimagnet/Hornbach и выбором эластичного подвеса](BOM.md).
 
 - **Для печати:** откройте [`print/`](print/) — все 10 STL и [список деталей, материалов и количества](print/README.md).
+- **Настройки печати:** [MK4, сопло 0,4 мм — периметры, заполнение, оболочки и ориентация деталей](print/README.md#печать).
 - **Переднее крепление:** [`cad/Fifine_Clamp_V1.sc`](cad/Fifine_Clamp_V1.sc).
 - **Правое крепление:** [`cad/Fifine_Clamp_Right_V1.sc`](cad/Fifine_Clamp_Right_V1.sc).
 
