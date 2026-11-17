@@ -4,6 +4,8 @@
 
 ## Быстрый старт
 
+- **Покупки:** [BOM с ссылками Unimagnet/Hornbach и выбором эластичного подвеса](BOM.md).
+
 - **Для печати:** откройте [`print/`](print/) — все 10 STL и [список деталей, материалов и количества](print/README.md).
 - **Переднее крепление:** [`cad/Fifine_Clamp_V1.sc`](cad/Fifine_Clamp_V1.sc).
 - **Правое крепление:** [`cad/Fifine_Clamp_Right_V1.sc`](cad/Fifine_Clamp_Right_V1.sc).
